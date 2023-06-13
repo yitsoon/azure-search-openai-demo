@@ -10,7 +10,7 @@ const Layout = () => {
             <header className={styles.header} role={"banner"}>
                 <div className={styles.headerContainer}>
                     <Link to="/" className={styles.headerTitleContainer}>
-                        <h3 className={styles.headerTitle}>GPT + Enterprise data | Sample YL Deployment</h3>
+                        <h3 className={styles.headerTitle}>GPT + Enterprise data | Sample YL Deployment2</h3>
                     </Link>
                     <nav>
                         <ul className={styles.headerNavList}>
